@@ -59,7 +59,7 @@ body {
   border-radius: 5px;
   height: 56px;
   width: 301px;
-  padding: 12px;
+  padding: 13px;
 }
 #content>.content-body .btn-img {
   float: left;
@@ -130,7 +130,7 @@ body {
   }
   #content>.content-body .btn-text {
     font-size: 15px;
-    margin-top: 6px;
+    margin-top: 5px;
     margin-right: 7px;
   }
   #content>.content-foot p {
